@@ -1,6 +1,6 @@
 <div class="container">
 	<div class="row">
-		<h3>Contact us</h3>
+		<h3>Kontak Kami!</h3>
 		<div class="col-sm-6 footer-left">
 			<div class="contact-form">
 				<form role="form" method="post">
@@ -9,14 +9,14 @@
 						<input type="text" name="email" placeholder="Email..." class="contact-email form-control" id="contact-email">
 					</div>
 					<div class="form-group">
-						<label class="sr-only" for="contact-subject">Subject</label>
-						<input type="text" name="subject" placeholder="Subject..." class="contact-subject form-control" id="contact-subject">
+						<label class="sr-only" for="contact-subject">Subjek</label>
+						<input type="text" name="subject" placeholder="Subjek..." class="contact-subject form-control" id="contact-subject">
 					</div>
 					<div class="form-group">
-						<label class="sr-only" for="contact-message">Message</label>
-						<textarea name="message" placeholder="Message..." class="contact-message form-control" id="contact-message"></textarea>
+						<label class="sr-only" for="contact-message">Pesan</label>
+						<textarea name="message" placeholder="Pesan anda..." class="contact-message form-control" id="contact-message"></textarea>
 					</div>
-					<a type="submit" class="btn btn-link-1">Send message</a>
+					<a type="submit" class="btn btn-link-1">Kirim</a>
 				</form>
 			</div>
 		</div>

@@ -36,7 +36,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="logo wow fadeInDown">
-                            <a href="#"><img src="{{ URL::asset('assets/img/logo.png') }}"></img></a>
+                            <a href="#"><img src="{{ URL::asset('assets_cs/img/logo.png') }}"></img></a>
                         </div>
                         <h2 class="wow fadeInLeftBig">Under Construction</h2>
                         <div class="timer wow fadeInUp">
@@ -73,7 +73,7 @@
                     <p>Designed by <a href="http://azmind.com">Azmind</a></p>
                 </div>
                 <div class="col-sm-5 footer-social">
-                    <p><i class="glyphicon glyphicon-earphone"></i> 0218988454 | <i class="glyphicon glyphicon-phone"></i> 081234567890</p>
+                    <p><i class="glyphicon glyphicon-earphone"></i> - | <i class="glyphicon glyphicon-phone"></i> +628129447802</p>
                 </div>
             </div>
         </div>

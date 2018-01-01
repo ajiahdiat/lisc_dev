@@ -18,7 +18,7 @@
 						</div>
 						<div class="col-sm-9">
 							<h3><a href="#">Quis nostrud exerci tat</a> <i class="fa fa-angle-right"></i></h3>
-							<div class="blog-box-date"><i class="fa fa-calendar-o"></i> 26 July 2015</div>
+							<div class="blog-box-date"><i class="fa fa-calendar-o"></i> 26 Juli 2017</div>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et.</p>
 						</div>
 					</div>
@@ -30,7 +30,7 @@
 						</div>
 						<div class="col-sm-9">
 							<h3><a href="#">Minim veniam quis nostrud</a> <i class="fa fa-angle-right"></i></h3>
-							<div class="blog-box-date"><i class="fa fa-calendar-o"></i> 09 June 2015</div>
+							<div class="blog-box-date"><i class="fa fa-calendar-o"></i> 09 Juni 2017</div>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et.</p>
 						</div>
 					</div>

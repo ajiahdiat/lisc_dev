@@ -6,6 +6,7 @@
 <script src="{{ URL::asset('assets/js/retina-1.1.0.min.js') }}"></script>
 <script src="{{ URL::asset('assets/js/waypoints.min.js') }}"></script>
 <script src="{{ URL::asset('assets/js/scripts.js') }}"></script>
+<script src="{{ URL::asset('assets/js/jquery.prettyPhoto.js') }}"></script>
 
 <!--[if lt IE 10]>
 	<script src="{{ URL::asset('assets/js/placeholder.js') }}"></script>
